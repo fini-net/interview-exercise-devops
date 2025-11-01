@@ -13,6 +13,6 @@ Tucows Interview Exercise DevOps
   * Must include API and Database servers
   * Must be deployed within a specific region
   * Must follow VPC best practices
-  * Only web ports could be exposed
+  * Only web ports should be exposed
   * Must have logging and alerting provided
 * Include terraform plan output to confirm a succesfull execution plan creation
